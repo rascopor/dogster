@@ -1,0 +1,2 @@
+# dogster
+just for meshroom
